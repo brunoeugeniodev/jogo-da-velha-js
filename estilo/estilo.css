@@ -26,10 +26,7 @@ body {
     line-height: 100px;
     cursor: pointer;
   }
-  
-  button:focus {
-    outline: none;
-  }
+
   
   #reiniciar {
     margin-top: 20px;
